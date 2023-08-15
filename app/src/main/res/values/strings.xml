@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notify</string>
+    <string name="default_notification_channel_id">santhosh</string>
+
+</resources>
